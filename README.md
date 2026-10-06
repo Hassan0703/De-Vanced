@@ -22,22 +22,22 @@
 </div>
 
 <p align="center">
-  <a href="https://ko-fi.com/rookie_z" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" height="30" style="height:30px; border-radius:8px; display:inline-block;" alt="Donate via Ko-fi" /></a>
+  <a href="https://ko-fi.com/rookie_z" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" height="30" style="height:30px; border-radius:8px; display:inline-block;" alt="Donate [...]
   &nbsp;&nbsp;
-  <a href="https://buymeachai.ezee.li/RookieZ" target="_blank"><img src="https://raw.githubusercontent.com/TakiShiwa/donate-with-upi/ffbb38749891aeb62e758a3692698e346e3df2da/Button/SVG/UPI-light-blue-01.svg" height="30" style="height:30px; border-radius:8px; display:inline-block;" alt="Donate via UPI" /></a>
+  <a href="https://buymeachai.ezee.li/RookieZ" target="_blank"><img src="https://raw.githubusercontent.com/TakiShiwa/donate-with-upi/ffbb38749891aeb62e758a3692698e346e3df2da/Button/SVG/UPI-light-b[...]
   <br />
-  <a href="https://paypal.me/RookieEnough" target="_blank"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" style="height:50px; border-radius:8px; display:inline-block; margin-top:8px;" alt="Donate via PayPal" /></a>
+  <a href="https://paypal.me/RookieEnough" target="_blank"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" style="he[...]
 </p>
 
 ---
 
 ## About
 
-**De-Vanced** is a curated collection of patches that have been migrated from [ReVanced](https://github.com/ReVanced/revanced-patches) to [Morphe](https://morphe.software)—a community-driven, open-source tool for patching Android apps.
+**De-Vanced** is a curated collection of patches that have been migrated from [ReVanced](https://github.com/ReVanced/revanced-patches) to [Morphe](https://morphe.software)—a community-driven, op[...]
 
 ---
 
-## How to use these patches
+## How to Use These Patches
 
 1. Install Morphe Manager if you have not yet: https://morphe.software
 
@@ -49,7 +49,7 @@
 
 ### Why De-Vanced?
 
-- **ReVanced labels community forks as "unofficial"** while positioning itself as the official project—despite being a fork of Vanced. The hypocrisy is real: if forks are unofficial, so is ReVanced.
+- **ReVanced labels community forks as "unofficial"** while positioning itself as the official project—despite being a fork of Vanced. The hypocrisy is real: if forks are unofficial, so is ReVan[...]
 - **Morphe** is built on transparency, proper GPL compliance, and community collaboration—without the gatekeeping.
 - **These patches** are the same functionality you know, adapted for Morphe's patcher ecosystem. No lock-in. No drama.
 
@@ -64,7 +64,7 @@
 | Angulus | `com.drinkplusplus.angulus` | <ul><li>Hide Ads</li></ul> |
 | Bandcamp | `com.bandcamp.android` | <ul><li>Remove play limits</li></ul> |
 | Cricbuzz | `com.cricbuzz.android` | <ul><li>Disable ads</li><li>Extension</li></ul> |
-| Facebook | `com.facebook.katana` | <ul><li>AMOLED dark theme</li><li>Clean Home feed</li><li>De-Vanced Settings</li><li>Disable all ads</li><li>Disable analytics and telemetry</li><li>Disable auto refresh</li><li>Download Media</li><li>Facebook signature compatibility</li><li>Material You theme</li><li>Media quality controls</li><li>Messenger install compatibility</li><li>Open Marketplace on launch</li><li>Optimize Facebook</li><li>Picture-in-picture</li><li>Reels 2x speed</li></ul> |
+| Facebook | `com.facebook.katana` | <ul><li>AMOLED dark theme</li><li>Clean Home feed</li><li>De-Vanced Settings</li><li>Disable all ads</li><li>Disable analytics and telemetry</li><li>Disable au[...]
 | GMX Mail | `de.gmx.mobile.android.mail` | <ul><li>Hide Ads</li><li>Force enable FreePhone</li><li>Hide upgrade button</li></ul> |
 | Google Photos | `com.google.android.apps.photos` | <ul><li>Spoof features</li><li>Backup control</li><li>GMS support</li><li>Extension</li><li>Restore backup toggle</li></ul> |
 | Google Recorder | `com.google.android.apps.recorder` | <ul><li>Remove device restrictions</li></ul> |
@@ -72,13 +72,13 @@
 | Icon Pack Studio | `ginlemon.iconpackstudio` | <ul><li>Unlock Pro</li></ul> |
 | irplus | `net.binarymode.android.irplus` | <ul><li>Hide Ads</li></ul> |
 | Letterboxd | `com.letterboxd.letterboxd` | <ul><li>Hide ads</li><li>Unlock app icons</li></ul> |
-| Messenger | `com.facebook.orca` | <ul><li>Disable typing indicator</li><li>Hide inbox ads</li><li>Hide inbox subtabs</li><li>Hide Facebook buttons</li><li>Remove Meta AI</li><li>Open links externally</li><li>Spoof package version</li></ul> |
+| Messenger | `com.facebook.orca` | <ul><li>Disable typing indicator</li><li>Hide inbox ads</li><li>Hide inbox subtabs</li><li>Hide Facebook buttons</li><li>Remove Meta AI</li><li>Open links exter[...]
 | Microsoft Lens | `com.microsoft.office.officelens` | <ul><li>Hide OneDrive migration</li></ul> |
 | Nothing X | `com.nothing.smartcenter` | <ul><li>Hide Ads</li></ul> |
 | NU.nl | `nl.sanomamedia.android.nu` | <ul><li>Hide Ads</li></ul> |
 | Photomath | `com.microblink.photomath` | <ul><li>Spoof device ID</li><li>Signature detection</li><li>Unlock Plus</li><li>Bookpoint</li><li>Hide update popup</li></ul> |
 | Pixiv | `jp.pxv.android` | <ul><li>Hide ads</li><li>Remove popular search time limit</li></ul> |
-| Strava | `com.strava` | <ul><li>Group kudos</li><li>Hide distractions</li><li>Media download</li><li>Media upload</li><li>Disable quick edit</li><li>Password login</li><li>Block tracking</li><li>Unlock subscription</li><li>Disable upsell</li></ul> |
+| Strava | `com.strava` | <ul><li>Group kudos</li><li>Hide distractions</li><li>Media download</li><li>Media upload</li><li>Disable quick edit</li><li>Password login</li><li>Block tracking</li><li[...]
 | Twitch | `tv.twitch.android.app` | <ul><li>Block audio ads</li><li>Block embedded ads</li><li>Block video ads</li><li>Show deleted messages</li><li>Auto claim channel points</li><li>Debug mode</li></ul> |
 | Viber | `com.viber.voip` | <ul><li>Hide Ads</li><li>Hide navigation buttons</li></ul> |
 
