@@ -22,18 +22,18 @@
 </div>
 
 <p align="center">
-  <a href="https://ko-fi.com/rookie_z" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" height="30" style="height:30px; border-radius:8px; display:inline-block;" alt="Donate [...]
+  <a href="https://ko-fi.com/rookie_z" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" height="30" style="height:30px; border-radius:8px; display:inline-block;" alt="Donate to De-Vanced" /></a>
   &nbsp;&nbsp;
-  <a href="https://buymeachai.ezee.li/RookieZ" target="_blank"><img src="https://raw.githubusercontent.com/TakiShiwa/donate-with-upi/ffbb38749891aeb62e758a3692698e346e3df2da/Button/SVG/UPI-light-b[...]
+  <a href="https://buymeacoffee.com/RookieZ" target="_blank"><img src="https://raw.githubusercontent.com/TakiShiwa/donate-with-upi/ffbb38749891aeb62e758a3692698e346e3df2da/Button/SVG/UPI-light-bg.svg" height="30" style="height:30px; border-radius:8px; display:inline-block;" alt="Donate with UPI" /></a>
   <br />
-  <a href="https://paypal.me/RookieEnough" target="_blank"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" style="he[...]
+  <a href="https://paypal.me/RookieEnough" target="_blank"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" style="height:50px; border-radius:8px; display:inline-block;" alt="PayPal Donate" /></a>
 </p>
 
 ---
 
 ## About
 
-**De-Vanced** is a curated collection of patches that have been migrated from [ReVanced](https://github.com/ReVanced/revanced-patches) to [Morphe](https://morphe.software)—a community-driven, op[...]
+**De-Vanced** is a curated collection of patches that have been migrated from [ReVanced](https://github.com/ReVanced/revanced-patches) to [Morphe](https://morphe.software)—a community-driven, open-source alternative built for transparency and GPL compliance.
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Why De-Vanced?
 
-- **ReVanced labels community forks as "unofficial"** while positioning itself as the official project—despite being a fork of Vanced. The hypocrisy is real: if forks are unofficial, so is ReVan[...]
+- **ReVanced labels community forks as "unofficial"** while positioning itself as the official project—despite being a fork of Vanced. The hypocrisy is real: if forks are unofficial, so is ReVanced.
 - **Morphe** is built on transparency, proper GPL compliance, and community collaboration—without the gatekeeping.
 - **These patches** are the same functionality you know, adapted for Morphe's patcher ecosystem. No lock-in. No drama.
 
@@ -64,7 +64,7 @@
 | Angulus | `com.drinkplusplus.angulus` | <ul><li>Hide Ads</li></ul> |
 | Bandcamp | `com.bandcamp.android` | <ul><li>Remove play limits</li></ul> |
 | Cricbuzz | `com.cricbuzz.android` | <ul><li>Disable ads</li><li>Extension</li></ul> |
-| Facebook | `com.facebook.katana` | <ul><li>AMOLED dark theme</li><li>Clean Home feed</li><li>De-Vanced Settings</li><li>Disable all ads</li><li>Disable analytics and telemetry</li><li>Disable au[...]
+| Facebook | `com.facebook.katana` | <ul><li>AMOLED dark theme</li><li>Clean Home feed</li><li>De-Vanced Settings</li><li>Disable all ads</li><li>Disable analytics and telemetry</li><li>Disable auto-startup</li><li>Disable breakpad</li><li>Disable blur</li><li>Disable debugging</li><li>Disable metrics</li><li>Disable startup ads</li><li>Hide ads</li><li>Hide stories</li><li>Open links externally</li><li>Remove Messenger glam</li></ul> |
 | GMX Mail | `de.gmx.mobile.android.mail` | <ul><li>Hide Ads</li><li>Force enable FreePhone</li><li>Hide upgrade button</li></ul> |
 | Google Photos | `com.google.android.apps.photos` | <ul><li>Spoof features</li><li>Backup control</li><li>GMS support</li><li>Extension</li><li>Restore backup toggle</li></ul> |
 | Google Recorder | `com.google.android.apps.recorder` | <ul><li>Remove device restrictions</li></ul> |
@@ -72,13 +72,13 @@
 | Icon Pack Studio | `ginlemon.iconpackstudio` | <ul><li>Unlock Pro</li></ul> |
 | irplus | `net.binarymode.android.irplus` | <ul><li>Hide Ads</li></ul> |
 | Letterboxd | `com.letterboxd.letterboxd` | <ul><li>Hide ads</li><li>Unlock app icons</li></ul> |
-| Messenger | `com.facebook.orca` | <ul><li>Disable typing indicator</li><li>Hide inbox ads</li><li>Hide inbox subtabs</li><li>Hide Facebook buttons</li><li>Remove Meta AI</li><li>Open links exter[...]
+| Messenger | `com.facebook.orca` | <ul><li>Disable typing indicator</li><li>Hide inbox ads</li><li>Hide inbox subtabs</li><li>Hide Facebook buttons</li><li>Remove Meta AI</li><li>Open links externally</li></ul> |
 | Microsoft Lens | `com.microsoft.office.officelens` | <ul><li>Hide OneDrive migration</li></ul> |
 | Nothing X | `com.nothing.smartcenter` | <ul><li>Hide Ads</li></ul> |
 | NU.nl | `nl.sanomamedia.android.nu` | <ul><li>Hide Ads</li></ul> |
 | Photomath | `com.microblink.photomath` | <ul><li>Spoof device ID</li><li>Signature detection</li><li>Unlock Plus</li><li>Bookpoint</li><li>Hide update popup</li></ul> |
 | Pixiv | `jp.pxv.android` | <ul><li>Hide ads</li><li>Remove popular search time limit</li></ul> |
-| Strava | `com.strava` | <ul><li>Group kudos</li><li>Hide distractions</li><li>Media download</li><li>Media upload</li><li>Disable quick edit</li><li>Password login</li><li>Block tracking</li><li[...]
+| Strava | `com.strava` | <ul><li>Group kudos</li><li>Hide distractions</li><li>Media download</li><li>Media upload</li><li>Disable quick edit</li><li>Password login</li><li>Block tracking</li></ul> |
 | Twitch | `tv.twitch.android.app` | <ul><li>Block audio ads</li><li>Block embedded ads</li><li>Block video ads</li><li>Show deleted messages</li><li>Auto claim channel points</li><li>Debug mode</li></ul> |
 | Viber | `com.viber.voip` | <ul><li>Hide Ads</li><li>Hide navigation buttons</li></ul> |
 
@@ -133,3 +133,5 @@ These patches are designed to work with [Morphe](https://morphe.software). To bu
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). See the [NOTICE](NOTICE) file for Morphe's additional conditions under GPLv3 Section 7.
+
+Community-maintained, no gatekeeping.
